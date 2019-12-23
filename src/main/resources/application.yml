@@ -1,0 +1,33 @@
+# 项目相关配置
+hystrix-dashboard:
+  # 名称
+  name: Hystrix 仪表盘
+  # 版本
+  version: 1.0.0
+  # 作者
+  author: GeekTech
+  # 单位
+  unit: GeekTech
+
+# 服务
+server:
+  # 端口号
+  port: 8010
+
+spring:
+  # 应用配置
+  application:
+    # 应用名称
+    name: hystrix-dashboard
+
+# 注册服务
+eureka:
+  client:
+    service-url:
+      defaultZone: http://admin:geektech@eureka-server:8761/eureka
+
+# 日志配置
+logging:
+  level:
+    com.geektech: warn
+    com.springframework: warn

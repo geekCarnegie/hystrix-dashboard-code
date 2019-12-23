@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6049e93-2abb-462c-856a-caa435fcf7f4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/usr/local/maven/apache-maven-3.6.1" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1UWMOnBNLtG6qHM6c7rFzuOipXv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="HystrixDashboardApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hystrix-dashboard" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.geektech.springcloud.hystrixdashboard.HystrixDashboardApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6049e93-2abb-462c-856a-caa435fcf7f4" name="Default Changelist" comment="" />
+      <created>1575467868389</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575467868389</updated>
+      <workItem from="1575467873745" duration="2179000" />
+      <workItem from="1575786499052" duration="1990000" />
+      <workItem from="1577113530316" duration="339000" />
+      <workItem from="1577113925551" duration="801000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="140" key="GridCell.Tab.0.bottom" timestamp="1577114508497">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="140" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1577114508497" />
+    <state width="1238" height="140" key="GridCell.Tab.0.center" timestamp="1577114508496">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="140" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1577114508496" />
+    <state width="1238" height="140" key="GridCell.Tab.0.left" timestamp="1577114508494">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="140" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1577114508494" />
+    <state width="1238" height="140" key="GridCell.Tab.0.right" timestamp="1577114508496">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="140" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1577114508496" />
+    <state width="1238" height="140" key="GridCell.Tab.1.bottom" timestamp="1575788538096">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="140" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1575788538096" />
+    <state width="1238" height="140" key="GridCell.Tab.1.center" timestamp="1575788538094">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="140" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1575788538094" />
+    <state width="1238" height="140" key="GridCell.Tab.1.left" timestamp="1575788538093">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="140" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1575788538093" />
+    <state width="1238" height="140" key="GridCell.Tab.1.right" timestamp="1575788538095">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="140" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1575788538095" />
+    <state x="273" y="200" key="git4idea.merge.GitPullDialog" timestamp="1577114683244">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="273" y="200" key="git4idea.merge.GitPullDialog/0.0.1280.800@0.0.1280.800" timestamp="1577114683244" />
+  </component>
+</project>
