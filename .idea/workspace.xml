@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6049e93-2abb-462c-856a-caa435fcf7f4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +69,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -108,30 +108,53 @@
       <workItem from="1575467873745" duration="2179000" />
       <workItem from="1575786499052" duration="1990000" />
       <workItem from="1577113530316" duration="339000" />
-      <workItem from="1577113925551" duration="801000" />
+      <workItem from="1577113925551" duration="915000" />
+      <workItem from="1577368032851" duration="657000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Project">
+      <created>1577115139797</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577115139797</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Initial Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Project" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1238" height="140" key="GridCell.Tab.0.bottom" timestamp="1577114508497">
+    <state x="328" y="136" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1577369795618">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="140" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1577114508497" />
-    <state width="1238" height="140" key="GridCell.Tab.0.center" timestamp="1577114508496">
+    <state x="328" y="136" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.800@0.0.1280.800" timestamp="1577369795618" />
+    <state x="51" y="0" key="CommitChangelistDialog2" timestamp="1577115139196">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="140" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1577114508496" />
-    <state width="1238" height="140" key="GridCell.Tab.0.left" timestamp="1577114508494">
+    <state x="51" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1577115139196" />
+    <state width="1238" height="140" key="GridCell.Tab.0.bottom" timestamp="1577115202760">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="140" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1577114508494" />
-    <state width="1238" height="140" key="GridCell.Tab.0.right" timestamp="1577114508496">
+    <state width="1238" height="140" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1577115202760" />
+    <state width="1238" height="140" key="GridCell.Tab.0.center" timestamp="1577115202759">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="140" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1577114508496" />
+    <state width="1238" height="140" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1577115202759" />
+    <state width="1238" height="140" key="GridCell.Tab.0.left" timestamp="1577115202759">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="140" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1577115202759" />
+    <state width="1238" height="140" key="GridCell.Tab.0.right" timestamp="1577115202759">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="140" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1577115202759" />
     <state width="1238" height="140" key="GridCell.Tab.1.bottom" timestamp="1575788538096">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
@@ -148,6 +171,10 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="140" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1575788538095" />
+    <state x="240" y="141" key="Vcs.Push.Dialog.v2" timestamp="1577115169394">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="141" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1577115169394" />
     <state x="273" y="200" key="git4idea.merge.GitPullDialog" timestamp="1577114683244">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
