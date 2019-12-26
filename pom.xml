@@ -82,7 +82,7 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <imageName>geekcarnegie/hystrix-dashboard:${project.version}</imageName>
+                    <imageName>geekcarnegie/hystrix-dashboard-single:${project.version}</imageName>
                     <dockerDirectory>${project.basedir}/src/main/docker</dockerDirectory>
                     <resources>
                         <resource>
